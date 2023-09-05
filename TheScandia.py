@@ -1,3 +1,4 @@
+#USE ONLY ETHICALLY
 import socket
 from utils import timefunc
 
